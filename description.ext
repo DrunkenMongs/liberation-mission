@@ -1,0 +1,34 @@
+#include "infiSTAR_AdminMenu.hpp"
+respawn = 3;
+respawndelay = 5;
+respawnButton = 1;
+disabledAI = true;
+
+enableDebugConsole = 1;
+allowFunctionsLog = 0;
+
+briefingName = $STR_DM_MissionName; // $STR_MISSION_TITLE
+overviewText = "www.killahpotatoes.de";
+overviewPicture = "res\lib.paa";
+author = $STR_DM_MissionVersion;
+onLoadName = $STR_DM_MissionName; // $STR_MISSION_TITLE
+onLoadMission = $STR_DM_MissionVersion;
+loadScreen = "res\lib.paa";
+
+joinUnassigned = 1;
+
+#include "GREUH\UI\GREUH_interface.hpp"
+#include "ui\liberation_interface.hpp"
+#include "ui\liberation_notifications.hpp"
+#include "ui\mission_params.hpp"
+
+class CfgDebriefing
+{
+	class End1
+	{
+		title =	$STR_SORRY;
+		subtitle = "";
+		description = $STR_COMMANDER_NOT_AUTHORIZED;
+		pictureBackground = "";
+	};
+};
