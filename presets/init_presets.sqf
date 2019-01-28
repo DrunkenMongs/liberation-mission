@@ -41,7 +41,7 @@ switch (KP_liberation_arsenal) do {
 	case 4: {[] call compileFinal preprocessFileLineNumbers "arsenal_presets\rhsusaf_ace.sqf";};
 	case 5: {[] call compileFinal preprocessFileLineNumbers "arsenal_presets\rhsusaf_ace_acre.sqf";};
 	case 6: {[] call compileFinal preprocessFileLineNumbers "arsenal_presets\cb3BAF.sqf";};
-	default: {[] call compileFinal preprocessFileLineNumbers "arsenal_presets\custom.sqf";};
+	default {[] call compileFinal preprocessFileLineNumbers "arsenal_presets\custom.sqf";};
 };
 // Prices for the blufor infantry squads (supplies, ammo, fuel)
 squads = [
