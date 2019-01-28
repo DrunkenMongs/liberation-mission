@@ -14,7 +14,7 @@ GRLIB_arsenal_weapons = [
 	"rhs_weap_ak103_npz",
 	"rhs_weap_ak104",
 	"rhs_weap_ak104_npz",
-	"rhs_weap_ak105",
+	"rhs_weap_ak105"
 	"rhs_weap_ak105_npz",
 	"rhs_weap_ak74m",
 	"rhs_weap_ak74m_2mag",
@@ -47,7 +47,7 @@ GRLIB_arsenal_weapons = [
 	"rhs_weap_svdp_wd_npz",
 	"rhs_weap_svds",
 	"rhs_weap_svds_npz",
-	"rhs_weap_igla",
+	"rhs_weap_igla"
 	"rhs_weap_rpg26",
 	"rhs_weap_rpg7",
 	"rhs_weap_rshg2",
@@ -226,7 +226,7 @@ GRLIB_arsenal_items = [
 	"LOP_U_CDF_Fatigue_01",
 	"LOP_H_6B27M_ess_CDF",
 	"LOP_V_6B23_Rifleman_OLV",
-	"rhs_6b27m_green",
+	"rhs_6b27m_green"
 	"ACE_RangeTable_82mm",
 	"ACE_adenosine",
 	"TFAR_anprc152",
