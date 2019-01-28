@@ -311,11 +311,11 @@ GRLIB_arsenal_items = [
 ];
 
 GRLIB_arsenal_backpacks = [
-"rhs_assault_umbts",
-"rhs_assault_umbts_engineer_empty",
-"LOP_CDF_Sidor_SVD",
-"LOP_CDF_RPG_Pack",
-"rhs_assault_umbts_engineer",
-"LOP_CDF_Kitbag_Med",
-"LOP_CDF_AA_Pack"
+	"rhs_assault_umbts",
+	"rhs_assault_umbts_engineer_empty",
+	"LOP_CDF_Sidor_SVD",
+	"LOP_CDF_RPG_Pack",
+	"rhs_assault_umbts_engineer",
+	"LOP_CDF_Kitbag_Med",
+	"LOP_CDF_AA_Pack"
 ];
