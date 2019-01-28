@@ -41,7 +41,7 @@ If you want to change a preset, it's recommended to set all four presets to 0 an
 6 = RHS USAF (Woodland)
 7 = RHS USAF (Desert)
 8 = RHS AFRF (VDV/MSV) */
-KP_liberation_preset_blufor = 0; // Since they all wanted to be AFRF
+KP_liberation_preset_blufor = 0; // SInce they all wanted to be AFRF
 
 /* OPFOR preset:
 0 = Custom (default vanilla CSAT)
