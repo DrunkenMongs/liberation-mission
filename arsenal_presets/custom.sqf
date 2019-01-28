@@ -463,11 +463,11 @@ GRLIB_arsenal_backpacks = [
 	"LOP_CDF_RPG_Pack",
 	"rhs_assault_umbts_engineer",
 	"LOP_CDF_Kitbag_Med",
-	"LOP_CDF_AA_Pack"
+	"LOP_CDF_AA_Pack",
 	"ACE_NonSteerableParachute",
 	"ACE_TacticalLadder_Pack",
 	"ace_gunbag",
 	"ace_gunbag_Tan",
 	"B_Carryall_cbr",
-	"B_Parachute",
+	"B_Parachute"
 ];
