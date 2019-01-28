@@ -70,7 +70,7 @@ infantry_units = [
 
 light_vehicles = [
 	["B_Quadbike_01_F",50,0,25],										//Quad Bike
-	["rhsusf_mrzr4_d_mud",60,0,25],										// MRZR Mud
+	["rhsusf_mrzr4_d_mud",0,0,0],										// MRZR Mud
 	["rhs_tigr_3camo_vv",75,0,50],										//Prowler
 	["rhs_tigr_m_3camo_vv",75,0,50],									//Prowler (HMG)
 	["rhs_tigr_sts_3camo_vv",75,80,50],											//Prowler (AT)
