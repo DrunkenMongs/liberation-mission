@@ -8,12 +8,12 @@ enableDebugConsole = 1;
 allowFunctionsLog = 0;
 
 briefingName = $STR_DM_MissionName; // $STR_MISSION_TITLE
-overviewText = "www.killahpotatoes.de";
-overviewPicture = "res\lib.paa";
+overviewText = "";
+overviewPicture = "res\lib.paa"; // to change
 author = $STR_DM_MissionVersion;
 onLoadName = $STR_DM_MissionName; // $STR_MISSION_TITLE
 onLoadMission = $STR_DM_MissionVersion;
-loadScreen = "res\lib.paa";
+loadScreen = "res\lib.paa"; // to change
 
 joinUnassigned = 1;
 
