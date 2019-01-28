@@ -41,7 +41,7 @@ GRLIB_arsenal_weapons = [
 	"rhs_weap_svdp_wd_npz",
 	"rhs_weap_svds",
 	"rhs_weap_svds_npz",
-	"rhs_weap_igla"
+	"rhs_weap_igla",
 	"rhs_weap_rpg26",
 	"rhs_weap_rpg7",
 	"rhs_weap_rshg2",
