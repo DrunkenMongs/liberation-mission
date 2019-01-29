@@ -3,6 +3,7 @@ CONFIG FILE FOR KP LIBERATION
 */
 
 // Vehicle classnames which also function as ACE medical vehicles.
+// Please (ADD) RHS AFRF, DO NOT REMOVE USAF
 KP_liberation_medical_vehicles = [
 	"B_Truck_01_medical_F",
 	"B_T_Truck_01_medical_F",
@@ -17,7 +18,8 @@ KP_liberation_medical_vehicles = [
 	"RHS_UH60M_MEV_d",
 	"RHS_UH60M_MEV2_d",
 	"UK3CB_BAF_LandRover_Amb_FFR_Green_A_MTP",
-	"UK3CB_BAF_LandRover_Amb_FFR_Sand_A_DDPM"
+	"UK3CB_BAF_LandRover_Amb_FFR_Sand_A_DDPM",
+	"rhs_gaz66_ap2_vdv"
 ];
 
 // Classnames of ACE3 crates (which have to be in the unit preset as well).
@@ -41,7 +43,7 @@ If you want to change a preset, it's recommended to set all four presets to 0 an
 6 = RHS USAF (Woodland)
 7 = RHS USAF (Desert)
 8 = RHS AFRF (VDV/MSV) */
-KP_liberation_preset_blufor = 0; // SInce they all wanted to be AFRF
+KP_liberation_preset_blufor = 0;
 
 /* OPFOR preset:
 0 = Custom (default vanilla CSAT)
@@ -340,7 +342,7 @@ box_transport_config = [
 	["B_T_VTOL_01_vehicle_F", -7.5,[0,4.7,-4.88],[0,3,-4.88],[0,1.3,-4.88],[0,-0.4,-4.88],[0,-2.1,-4.88]],
 	["RHS_CH_47F_10", -8, [0,2.2,-1.7], [0,0.5,-1.7], [0,-1.2,-1.7]],
 	["RHS_CH_47F_light", -8, [0,2.2,-1.7], [0,0.5,-1.7], [0,-1.2,-1.7]],
-	["RHS_CH_47F", -8, [0,2.2,-1.7], [0,0.5,-1.7], [0,-1.2,-1.7]],
+	["RHS_Mi8mt_Cargo_vvsc", -8, [0,2.2,-1.7], [0,0.5,-1.7], [0,-1.2,-1.7]],
 	["UK3CB_BAF_Merlin_HC3_18_DPMT", -7.5, [0.25,3.7,-1.5], [0.25,1.6,-1.5], [0.25,-0.4,-1.5]],
 	["UK3CB_BAF_Merlin_HC3_32_MTP", -7.5, [0.25,3.7,-1.5], [0.25,1.6,-1.5], [0.25,-0.4,-1.5]],
 	["UK3CB_BAF_Merlin_HC3_CSAR_MTP", -7.5, [0.25,3.7,-1.5], [0.25,1.6,-1.5], [0.25,-0.4,-1.5]],
