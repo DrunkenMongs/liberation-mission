@@ -60,7 +60,10 @@ GRLIB_arsenal_weapons = [
 	"rhs_weap_rpg7",
 	"rhs_weap_rshg2",
 	"rhs_weap_pya",
-	"launch_O_Vorona_brown_F"
+	"launch_O_Vorona_brown_F",
+	"rhs_weap_ak74m_desert_npz",
+	"rhs_weap_pya",
+	"rhs_weap_ak74mr_gp25"
 ];
 
 GRLIB_arsenal_magazines = [
@@ -96,12 +99,37 @@ GRLIB_arsenal_magazines = [
 	"rhs_mag_9x19_17",
 	"rhs_mag_9x18_12_57N181S",
 	"Vorona_HEAT",
-	"Vorona_HE"
+	"Vorona_HE",
+	"rhs_30Rnd_545x39_7N22_desert_AK",
+	"rhs_mag_rgo",
+	"rhs_mag_rgn",
+	"SmokeShellYellow",
+	"rhs_mag_rdg2_white",
+	"rhs_mag_9x19_17",
+	"rhs_6b27m_ml_ess",
+	"rhs_30Rnd_545x39_7N22_plum_AK",
+	"rhs_VOG25",
+	"rhs_mag_rdg2_white",
+	"rhs_GRD40_White",
+	"rhs_mag_9x19_17",
+	"rhs_rpg7_PG7V_mag"
 ];
 
 // All uniforms, attachments, helments, minus the backpacks
 
 GRLIB_arsenal_items = [
+	"rhs_acc_pgo7v3",
+	"rhs_acc_perst3",
+	"rhs_acc_uuk",
+	"rhs_6b27m_ml_ess",
+	"Rangefinder",
+	"ACE_optic_MRCO_2D",
+	"rhs_acc_perst1ik",
+	"rhs_acc_uuk",
+	"rhs_6b27m_ml_ess",
+	"rhs_6b13_6sh92_vog",
+	"rhs_tsh4",
+	"SmokeShell",
 	"optic_MRCO",
 	"ACE_ATragMX",
 	"ACE_Altimeter",
@@ -241,6 +269,7 @@ GRLIB_arsenal_items = [
 	"rhs_acc_1pn93_2",
 	"rhs_uniform_vdv_emr_des",
 	"rhs_uniform_emr_patchless",
+	"rhs_uniform_emr_des_patchless",
 	"rhs_uniform_msv_emr",
 	"rhs_uniform_vdv_emr",
 	"rhs_uniform_flora_patchless",
@@ -271,6 +300,7 @@ GRLIB_arsenal_items = [
 	"rhs_6b13_6sh92_vog",
 	"rhs_6b13_crewofficer",
 	"rhs_6b23",
+	"rhs_6b13_6sh92_vog",
 	"rhs_6b23_6sh92",
 	"rhs_6b23_6sh92_headset",
 	"rhs_6b23_6sh92_headset_mapcase",
@@ -481,8 +511,8 @@ GRLIB_arsenal_items = [
 	"RHS_weap_6p53",
 	"RHS_weap_pb_6p9",
 	"RHS_weap_pp2000_folded",
-	"RHS_weap_"
-
+	"RHS_weap_",
+	"NVGogglesB_grn_F"
 ];
 
 GRLIB_arsenal_backpacks = [
@@ -501,5 +531,7 @@ GRLIB_arsenal_backpacks = [
 	"B_Parachute",
 	"RHS_medic_bag",
 	"RHS_rpg_empty",
-	"RHS_sidor"
+	"RHS_sidor",
+	"B_Carryall_ocamo",
+	"B_Kitbag_tan",
 ];
