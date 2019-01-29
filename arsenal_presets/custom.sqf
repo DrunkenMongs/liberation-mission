@@ -60,7 +60,8 @@ GRLIB_arsenal_weapons = [
 	"rhs_weap_rpg7",
 	"rhs_weap_rshg2",
 	"rhs_weap_makarov_pmm",
-	"rhs_weap_pya"
+	"rhs_weap_pya",
+	"launch_O_Vorona_brown_F"
 ];
 
 GRLIB_arsenal_magazines = [
@@ -94,12 +95,15 @@ GRLIB_arsenal_magazines = [
 	"rhs_mag_9k32_rocket",
 	"rhs_mag_9k38_rocket",
 	"rhs_mag_9x19_17",
-	"rhs_mag_9x18_12_57N181S"
+	"rhs_mag_9x18_12_57N181S",
+	"Vorona_HEAT",
+	"Vorona_HE"
 ];
 
 // All uniforms, attachments, helments, minus the backpacks
 
 GRLIB_arsenal_items = [
+	"optic_MRCO",
 	"ACE_ATragMX",
 	"ACE_Altimeter",
 	"ACE_CableTie",
