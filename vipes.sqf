@@ -9,7 +9,7 @@ _zeusUIDs =[
 
 
 // kick Player back to Lobby if Zeus and not a known player
-if ((str(side player) == "LOGIC") && !(getPlayerUID player in _zeusUIDs)) then { 
+if ((str(side player) == "BLUFOR") && !(getPlayerUID player in _zeusUIDs)) then { 
 //hint "Failmission";
 failMission "LOSER"; 
 };
